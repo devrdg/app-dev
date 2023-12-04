@@ -1,8 +1,16 @@
 # app-dev
  My first repository
-# Favorite movies
-### Ordered List
+# Favorite
+**Fruits**
 
-1. Forest Gump
-2. 50 first date
-3. Apocalypto
+1. Melon
+2. Banana
+3. Orange
+4. Apple
+5. Strawberry
+
+---
+
+>bq
+
+`this is a code`
